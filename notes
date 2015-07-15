@@ -1,0 +1,37 @@
+sudo mount -t vboxsf share $HOME/Desktop/share
+
+sudo /etc/init.d/apache2 restart
+
+
+VM Login Password : student
+Mysql username : root
+Mysql password : student
+Mysql db name: opencart
+App’s admin: student@student.com/student
+Admin password : student
+Application path : /home/public_html
+
+
+
+
+------------------files changed:--------------------
+
+General (ip address update)
+config.php
+admin\config.php
+
+For RSS feature:
+\catalog\controller\feed\rssreview.php
+\catalog\model\catalog\review.php
+\catalog\controller\common\header.php
+\catalog\view\theme\default\template\common\header.tpl
+
+feature 6: user based statistics:
+\catalog\controller\common\header.php
+\catalog\view\theme\default\template\common\header.tpl
+\catalog\controller\information\userstats.php
+\catalog\model\user\stats.php
+\catalog\view\theme\default\template\information\userstats.tpl
+\catalog\view\javascript\jquery\flot
+\system\library\whosonline.php
+\index.php

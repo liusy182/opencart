@@ -1,0 +1,3 @@
+admin url: localhost/admin
+admin login: student/student
+mysql: see in config.php

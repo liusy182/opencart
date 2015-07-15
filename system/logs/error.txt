@@ -1,0 +1,156 @@
+2014-02-13 21:33:17 - PHP Notice:  Undefined variable: product in /home/student/public_html/admin/view/template/catalog/review_form.tpl on line 32
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: error_warning in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 2
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: heading_title in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 9
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: button_save in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: button_cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: action in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 13
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: entry_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 16
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: google_talk_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 17
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: error_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 18
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: entry_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 23
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 25
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: text_left in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 28
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 30
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: text_right in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 33
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: entry_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 38
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: google_talk_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 40
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: text_enabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 44
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: text_disabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 45
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: entry_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 50
+2014-02-15 14:07:57 - PHP Notice:  Undefined variable: google_talk_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 51
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: heading_title in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 9
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: button_save in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: button_cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: action in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 13
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: entry_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 16
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: google_talk_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 17
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: entry_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 23
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 25
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: text_left in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 28
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 30
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: text_right in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 33
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: entry_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 38
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: google_talk_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 40
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: text_enabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 44
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: text_disabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 45
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: entry_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 50
+2014-02-15 14:16:26 - PHP Notice:  Undefined variable: google_talk_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 51
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: heading_title in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 9
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: button_save in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: button_cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: action in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 13
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: entry_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 16
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: google_talk_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 17
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: entry_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 23
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 25
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: text_left in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 28
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 30
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: text_right in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 33
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: entry_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 38
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: google_talk_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 40
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: text_enabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 44
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: text_disabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 45
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: entry_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 50
+2014-02-15 14:18:23 - PHP Notice:  Undefined variable: google_talk_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 51
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: heading_title in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 9
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: button_save in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: button_cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: action in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 13
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: entry_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 16
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: google_talk_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 17
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: entry_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 23
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 25
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: text_left in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 28
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 30
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: text_right in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 33
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: entry_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 38
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: google_talk_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 40
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: text_enabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 44
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: text_disabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 45
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: entry_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 50
+2014-02-15 14:25:07 - PHP Notice:  Undefined variable: google_talk_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 51
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: heading_title in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 9
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: button_save in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: button_cancel in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 10
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: action in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 13
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: entry_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 16
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: google_talk_code in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 17
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: entry_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 23
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 25
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: text_left in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 28
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: google_talk_position in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 30
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: text_right in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 33
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: entry_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 38
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: google_talk_status in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 40
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: text_enabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 44
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: text_disabled in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 45
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: entry_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 50
+2014-02-15 14:49:33 - PHP Notice:  Undefined variable: google_talk_sort_order in /home/student/public_html/admin/view/template/module/google_talk.tpl on line 51
+2014-02-15 14:55:00 - PHP Notice:  Undefined variable: breadcrumbs in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 7
+2014-02-15 14:55:00 - PHP Warning:  Invalid argument supplied for foreach() in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 7
+2014-02-15 14:55:00 - PHP Notice:  Undefined variable: widgetid in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 16
+2014-02-15 14:55:00 - PHP Notice:  Undefined variable: iframeurl in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 20
+2014-02-15 14:56:40 - PHP Notice:  Undefined variable: breadcrumbs in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 7
+2014-02-15 14:56:40 - PHP Warning:  Invalid argument supplied for foreach() in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 7
+2014-02-15 14:56:40 - PHP Notice:  Undefined variable: widgetid in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 16
+2014-02-15 14:56:40 - PHP Notice:  Undefined variable: iframeurl in /home/student/public_html/admin/view/template/module/clickdesk.tpl on line 20
+2014-02-16 11:26:55 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /home/student/public_html/system/library/session.php on line 11
+2014-02-17 21:18:11 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:18:13 - PHP Notice:  Undefined variable: registry in /home/student/public_html/system/library/whosonline.php on line 7
+2014-02-17 21:20:31 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:22:35 - PHP Notice:  Undefined variable: registry in /home/student/public_html/system/library/whosonline.php on line 29
+2014-02-17 21:38:13 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:38:29 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:41:29 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:51:07 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:51:56 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:51:58 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:54:02 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:54:37 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:55:18 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 21:58:33 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 22:10:12 - PHP Warning:  Missing argument 1 for WhosOnline::__construct(), called in /home/student/public_html/index.php on line 182 and defined in /home/student/public_html/system/library/whosonline.php on line 6
+2014-02-17 22:41:19 - PHP Notice:  Undefined index: information_id in /home/student/public_html/catalog/controller/information/information.php on line 57
+2014-02-17 23:03:14 - PHP Notice:  Undefined index: information_id in /home/student/public_html/catalog/controller/information/information.php on line 57
+2014-02-17 23:23:56 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:26:45 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:27:50 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:32:58 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:33:10 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:34:05 - PHP Notice:  Undefined variable: usercount in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 5
+2014-02-17 23:34:18 - PHP Warning:  Missing argument 1 for ModelUserStats::getWhos(), called in /home/student/public_html/catalog/controller/information/userstats.php on line 23 and defined in /home/student/public_html/catalog/model/user/stats.php on line 4
+2014-02-17 23:34:18 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/model/user/stats.php on line 5
+2014-02-18 23:53:54 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-18 23:55:58 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-18 23:57:09 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:10:29 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:11:23 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:11:58 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:12:00 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:12:18 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 0:12:20 - PHP Notice:  Undefined variable: data in /home/student/public_html/catalog/controller/information/userstats.php on line 25
+2014-02-19 21:13:40 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:13:40 - PHP Warning:  Illegal offset type in /home/student/public_html/catalog/controller/information/userstats.php on line 34
+2014-02-19 21:13:45 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:13:45 - PHP Warning:  Illegal offset type in /home/student/public_html/catalog/controller/information/userstats.php on line 34
+2014-02-19 21:15:22 - PHP Warning:  array_key_exists(): The first argument should be either a string or an integer in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:15:22 - PHP Warning:  Illegal offset type in /home/student/public_html/catalog/controller/information/userstats.php on line 34
+2014-02-19 21:16:46 - PHP Warning:  Illegal offset type in isset or empty in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:16:46 - PHP Warning:  Illegal offset type in /home/student/public_html/catalog/controller/information/userstats.php on line 34
+2014-02-19 21:19:25 - PHP Warning:  Illegal offset type in isset or empty in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:19:25 - PHP Warning:  Illegal offset type in isset or empty in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 21:19:26 - PHP Warning:  Illegal offset type in isset or empty in /home/student/public_html/catalog/controller/information/userstats.php on line 30
+2014-02-19 23:55:34 - PHP Warning:  file_get_contents(http://api.hostip.info/country.php?ip=192.168.56.101): failed to open stream: Connection timed out in /home/student/public_html/catalog/controller/information/userstats.php on line 35
+2014-02-19 23:59:20 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 0:00:11 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 0:01:47 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 0:01:59 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 0:02:23 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 0:03:21 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 19:58:24 - PHP Notice:  Undefined variable: rankDataOutput in /home/student/public_html/catalog/view/theme/default/template/information/userstats.tpl on line 20
+2014-02-20 20:23:17 - PHP Notice:  session_start(): ps_files_cleanup_dir: opendir(/var/lib/php5) failed: Permission denied (13) in /home/student/public_html/system/library/session.php on line 11
